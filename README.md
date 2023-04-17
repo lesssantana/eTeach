@@ -12,4 +12,3 @@ Instalar un motor de ejecución de SQLite (recomendado DB Browser For SQLite)
 - Ejecutar el script crear_tablas_teach.sql.
 - Ejecutar el script llenar_tablas_teach.sql.
 - Ejecutar cualquier porción del script obtener_datos_teach.sql.
-- 
